@@ -74,7 +74,8 @@ Deployed a serverless app using DynamoDB, AWS Lambda & API Gateway with 13 endpo
 •	Utilized Lambda Logger to maintain logs and to debug.
 
 
-![Architecture Overview](/Users/pooja/lambda/inventory-manager/src/resources/images/AWSArchitecture.png)
+![Architecture Overview](https://github.com/poojaleo/inventory-manager/blob/54f0b7684af2a9de77902ecb7c90b67ec8271bca/src/resources/images/AWSArchitecture.png)
+
 
 13 endpoints are
 ( `CreateCompany`, `GetCompany`,  `CreateProduct`, `UpdateProduct`, `GetProduct`,
