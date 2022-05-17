@@ -27,8 +27,6 @@ Note: There is a 2-3 seconds latency to establish a connection.
 ## API Documentation
 [InventoryManager API Documentation](http://invmanager-swagger.s3-website-us-west-2.amazonaws.com/#post-/company)
 
-<img src="inventory-manager/src/resources/images/Swagger_Screenshot.png" width="350">
-
 ## 1. Problem Statement
 
 Managing inventory is one of the core requirements for a logistic business. Inventory Manager is application management service for
