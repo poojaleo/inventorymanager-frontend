@@ -27,6 +27,8 @@ Note: There is a 2-3 seconds latency to establish a connection.
 ## API Documentation
 [InventoryManager API Documentation](http://invmanager-swagger.s3-website-us-west-2.amazonaws.com/#post-/company)
 
+<img src="https://github.com/poojaleo/inventory-manager/blob/54f0b7684af2a9de77902ecb7c90b67ec8271bca/src/resources/images/Swagger_Screenshot.png" width="350" >
+
 ## 1. Problem Statement
 
 Managing inventory is one of the core requirements for a logistic business. Inventory Manager is application management service for
@@ -87,5 +89,5 @@ We will store Companies (users), Products, Shipments in DynamoDB database.
 
 # 5 Design Document
 
-![Inventory Manager Design Document](https://github.com/poojaleo/inventory-manager#readme)
+[Inventory Manager Design Document](https://github.com/poojaleo/inventory-manager#readme)
 
